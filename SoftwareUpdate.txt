@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
