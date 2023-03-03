@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Update Docs robots.txt (#7728)
