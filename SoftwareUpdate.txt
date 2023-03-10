@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
