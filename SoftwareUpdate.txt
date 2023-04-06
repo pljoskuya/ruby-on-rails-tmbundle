@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Update Colab notebook for YOLOv8.1 (#8660)
