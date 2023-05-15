@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Update format.yml to pull_request_target (#7460)
