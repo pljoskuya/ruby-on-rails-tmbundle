@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add PaddlePaddle Docs Integrations Page (#8858)
