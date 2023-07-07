@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
