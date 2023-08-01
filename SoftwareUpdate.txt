@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Update OpenVINO INT8 export (#7515)
