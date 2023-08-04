@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+OBB: Fix plot_images (#7592)
