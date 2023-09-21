@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
