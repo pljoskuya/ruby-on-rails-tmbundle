@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Expand Model method type hinting (#8279)
