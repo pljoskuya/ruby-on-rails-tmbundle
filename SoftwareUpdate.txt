@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
