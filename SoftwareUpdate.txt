@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Add visuals in guides/distance-calculation.md (#7876)
