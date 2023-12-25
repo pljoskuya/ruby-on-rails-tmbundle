@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
