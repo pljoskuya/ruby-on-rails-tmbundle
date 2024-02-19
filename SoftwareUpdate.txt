@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
