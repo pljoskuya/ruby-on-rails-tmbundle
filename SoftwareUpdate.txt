@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
