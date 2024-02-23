@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+TensorRT FP16 export with dynamic=True (#7870)
