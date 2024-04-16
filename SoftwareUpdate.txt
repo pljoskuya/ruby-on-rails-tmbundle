@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
