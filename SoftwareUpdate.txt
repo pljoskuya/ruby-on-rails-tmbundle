@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add TensorBoard Docs integrations page (#7248)
